@@ -690,8 +690,6 @@ Accessibility is an extremely important part of any web project. While the SOW, 
 
 ## VS Code
 
-- [My VS Code extensions](https://gist.github.com/mrmartineau/28ef03c53275ea468e470532d6d20449)
-- [My preferences](https://gist.github.com/mrmartineau/ea3b428124bc1e31cd46dfa55469d781)
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode): 🎨 A curated list of delightful VS Code packages and resources
 
 ## Programming fonts
